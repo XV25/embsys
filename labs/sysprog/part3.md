@@ -53,10 +53,10 @@ Puis exécutez le avec les paramètres nécessaires et observez les trames NMEA.
                  paramétrables au lancement). Vérifiez le bon fonctionnement en
                  lançant deux instances du simulateur GPS.
 
-**Question 6** : Utilisez *syslog* pour afficher l'heure dans la console ainsi
+**Question 6** : Utilisez *syslog* au sein du fichier reader.c pour afficher l'heure dans la console ainsi
                  que le PID du père.
 
-**Question 7** : Modifier la conf du démon syslog pour logger dans un
+**Question 7** : Hors du fichier reader.c, modifier la conf du démon syslog pour logger dans un
                  un fichier spécifique.
 
 
