@@ -159,7 +159,7 @@ simulateur GPS utilise la fonction *printf* dès son lancement.
                  *printf* (expliquez comment vous utilisez *man* dans ce cas et
                  pourquoi). Comment est appelé ce type de fonction?
 
-**Question 5** : Analysez *gps/src/bin/gps/gps.c* er repérez où se trouve le
+**Question 5** : Analysez *gps/src/app/gps.c* er repérez où se trouve le
                  gestionnaires de signaux. Décrivez les fonctions utilisez
                  ainsi que les signaux gérés.
 
